@@ -1,0 +1,8 @@
+{
+  "name": "EVORAN - Premium Streetwear",
+  "description": "High-fashion aesthetics merged with raw street culture. Define your legacy with exclusive drops and authentic quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
